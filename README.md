@@ -1,6 +1,4 @@
-# Excel - Model 1 Homework
-
-Homework includes 1 Excel file and 1 Word file
+# Excel - Model 1 Homework includes 1 Excel file and 1 Word file
 
 
 Modify Existing Crowdfunding Excel file:
@@ -11,19 +9,21 @@ Modify Existing Crowdfunding Excel file:
       
       Insert 2 columns to hold new date format
 
+
 Insert 4 pivot tables and graphs:
 
       (1) Show the Category in rows and Outcome counts in columns then depict the data in a bar graph.
 
       (2) Show the Sub-Category in rows and Outcome counts in columns then depict the data in a bar graph.
 
-      (3) Show the Month in rows and Outcome counts in columns then depict the data in a line chart.  Create a Word document to answers the following 3 questions 
+      (3) Show the Month in rows and Outcome counts in columns then depict the data in a line chart.  Create a Word document to answer the following 3 questions 
 
           What are three conclusions that we can draw about crowdfunding campaigns?
           What are some limitations of this dataset?
           What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
       (4) Show the Month in rows and Outcome counts for successful, failed, and canceled campaigns follow by the percent of Total for each then depict the data in a line chart. 
+
 
 Statisical Analysis:
 
