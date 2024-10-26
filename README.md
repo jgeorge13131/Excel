@@ -1,5 +1,7 @@
 # Excel - Model 1 Homework
 
+Homework includes 1 Excel file and 1 Word file
+
 
 Modify Existing Crowdfunding Excel file:
 
